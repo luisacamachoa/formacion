@@ -27,8 +27,8 @@
       <bpmn2:outgoing>SequenceFlow_2</bpmn2:outgoing>
       <bpmn2:ioSpecification id="InputOutputSpecification_1">
         <bpmn2:dataInput id="DataInput_1" itemSubjectRef="ItemDefinition_9" name="codigo_verificacion_orfeo"/>
-        <bpmn2:dataInput id="DataInput_2" itemSubjectRef="ItemDefinition_9" name="numeroRadicadoAdmin"/>
-        <bpmn2:dataInput id="DataInput_3" itemSubjectRef="ItemDefinition_9" name="numeroRadicadoOrfeo"/>
+        <bpmn2:dataInput id="DataInput_2" itemSubjectRef="ItemDefinition_9" name="numero_radicado_admin"/>
+        <bpmn2:dataInput id="DataInput_3" itemSubjectRef="ItemDefinition_9" name="numero_radicado_orfeo"/>
         <bpmn2:dataOutput id="DataOutput_1" itemSubjectRef="ItemDefinition_9" name="accion"/>
         <bpmn2:inputSet id="InputSet_1" name="Input Set 1">
           <bpmn2:dataInputRefs>DataInput_1</bpmn2:dataInputRefs>
